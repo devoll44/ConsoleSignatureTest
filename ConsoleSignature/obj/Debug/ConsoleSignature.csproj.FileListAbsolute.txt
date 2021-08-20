@@ -1,0 +1,14 @@
+E:\Projects\ConsoleSignature\bin\Debug\ConsoleSignature.exe.config
+E:\Projects\ConsoleSignature\bin\Debug\ConsoleSignature.exe
+E:\Projects\ConsoleSignature\bin\Debug\ConsoleSignature.pdb
+E:\Projects\ConsoleSignature\obj\Debug\ConsoleSignature.csproj.AssemblyReference.cache
+E:\Projects\ConsoleSignature\obj\Debug\ConsoleSignature.csproj.CoreCompileInputs.cache
+E:\Projects\ConsoleSignature\obj\Debug\ConsoleSignature.exe
+E:\Projects\ConsoleSignature\obj\Debug\ConsoleSignature.pdb
+E:\Projects\ConsoleSignatureTest\ConsoleSignature\bin\Debug\ConsoleSignature.exe.config
+E:\Projects\ConsoleSignatureTest\ConsoleSignature\bin\Debug\ConsoleSignature.exe
+E:\Projects\ConsoleSignatureTest\ConsoleSignature\bin\Debug\ConsoleSignature.pdb
+E:\Projects\ConsoleSignatureTest\ConsoleSignature\obj\Debug\ConsoleSignature.csproj.AssemblyReference.cache
+E:\Projects\ConsoleSignatureTest\ConsoleSignature\obj\Debug\ConsoleSignature.csproj.CoreCompileInputs.cache
+E:\Projects\ConsoleSignatureTest\ConsoleSignature\obj\Debug\ConsoleSignature.exe
+E:\Projects\ConsoleSignatureTest\ConsoleSignature\obj\Debug\ConsoleSignature.pdb

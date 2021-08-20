@@ -1,0 +1,6 @@
+E:\Projects\ConsoleSignature\bin\x86\Debug\ConsoleSignature.exe.config
+E:\Projects\ConsoleSignature\bin\x86\Debug\ConsoleSignature.exe
+E:\Projects\ConsoleSignature\bin\x86\Debug\ConsoleSignature.pdb
+E:\Projects\ConsoleSignature\obj\x86\Debug\ConsoleSignature.csproj.CoreCompileInputs.cache
+E:\Projects\ConsoleSignature\obj\x86\Debug\ConsoleSignature.exe
+E:\Projects\ConsoleSignature\obj\x86\Debug\ConsoleSignature.pdb
